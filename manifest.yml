@@ -4,7 +4,7 @@ declared-services:
     label: elephantsql
     plan: turtle
 applications:
-- name: vaadinApp
+- name: ecdustcloud
   instances: 1
   memory: 512M
   path: target/vaadin-jpa-application.war
